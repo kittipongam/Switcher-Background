@@ -2,6 +2,7 @@
 An Small Project for add Switcher for user design which one is interesting
 
 > make source code for guideline to apply with web-site
+> make background color and font color change
 
 ## Open with default
 
